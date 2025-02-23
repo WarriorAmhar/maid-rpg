@@ -1,0 +1,20 @@
+{
+  "MAID_RPG": {
+    "STATS": {
+      "athletics": "Athletics",
+      "affection": "Affection",
+      "skill": "Skill",
+      "cunning": "Cunning",
+      "luck": "Luck",
+      "will": "Will"
+    },
+    "DESCRIPTIONS": {
+      "athletics": "Physical ability, combat ability.",
+      "affection": "How good are you at forming bonds with your master and the other maids?",
+      "skill": "How good are you at your maid duties?",
+      "cunning": "How capable are you at tricking enemies and other maids, and deceiving the master?",
+      "luck": "Just how lucky are you?",
+      "will": "How positive and constructive is your thinking?"
+    }
+  }
+}
