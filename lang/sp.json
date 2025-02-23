@@ -1,0 +1,20 @@
+{
+  "MAID_RPG": {
+    "STATS": {
+      "athletics": "Atletismo",
+      "affection": "Afecto",
+      "skill": "Habilidad",
+      "cunning": "Astucia",
+      "luck": "Suerte",
+      "will": "Voluntad"
+    },
+    "DESCRIPTIONS": {
+      "athletics": "Habilidad física y de combate.",
+      "affection": "¿Qué tan buena eres para formar vínculos con tu amo y las otras sirvientas?",
+      "skill": "¿Qué tan buena eres en tus tareas de sirvienta?",
+      "cunning": "¿Qué tan capaz eres de engañar a los enemigos y otras sirvientas, y de engañar al amo?",
+      "luck": "¿Qué tan afortunada eres?",
+      "will": "¿Qué tan positiva y constructiva es tu forma de pensar?"
+    }
+  }
+}
