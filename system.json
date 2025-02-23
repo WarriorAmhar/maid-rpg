@@ -45,7 +45,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "stress",
   "secondaryTokenAttribute": "favor",
-  "url": "https://github.com/yourusername/maid-rpg-system",
-  "manifest": "https://raw.githubusercontent.com/yourusername/maid-rpg-system/main/system.json",
-  "download": "https://github.com/yourusername/maid-rpg-system/archive/main.zip"
+  "url": "https://github.com/yourusername/maid-rpg",
+  "manifest": "https://raw.githubusercontent.com/yourusername/maid-rpg/main/system.json",
+  "download": "https://github.com/yourusername/maid-rpg/archive/main.zip"
 }
