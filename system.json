@@ -1,0 +1,51 @@
+{
+  "id": "maid-rpg",
+  "title": "Maid RPG",
+  "description": "A comedic anime-inspired tabletop RPG where maids serve their master while battling chaos!",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Your Name",
+      "url": "https://yourwebsite.com",
+      "email": "youremail@example.com",
+      "discord": "YourDiscordUsername"
+    }
+  ],
+  "esmodules": ["module/documents.mjs"],
+  "styles": ["styles/system-styles.css"],
+  "packs": [
+    {
+      "name": "maids",
+      "label": "Maids",
+      "type": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "type": "Item"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "sp",
+      "name": "Spanish",
+      "path": "lang/sp.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "stress",
+  "secondaryTokenAttribute": "favor",
+  "url": "https://github.com/yourusername/maid-rpg-system",
+  "manifest": "https://raw.githubusercontent.com/yourusername/maid-rpg-system/main/system.json",
+  "download": "https://github.com/yourusername/maid-rpg-system/archive/main.zip"
+}
